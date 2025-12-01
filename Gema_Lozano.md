@@ -4,3 +4,8 @@ Gema Lozano Toral.md
 - freeCodeCamp
 - VSCode
 - Apache Spark
+
+## Lenguajes
+- Python
+- Java
+- JavaScript
