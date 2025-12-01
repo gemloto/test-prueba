@@ -9,3 +9,8 @@ Gema Lozano Toral.md
 - Python
 - Java
 - JavaScript
+
+## Frameworks
+- React
+- Angular
+- Django
